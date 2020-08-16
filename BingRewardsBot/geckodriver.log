@@ -1,0 +1,287 @@
+1597220428306	geckodriver	INFO	Listening on 127.0.0.1:49870
+1597220431336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofilelE9EYm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597220432773	Marionette	INFO	Listening on port 49884
+1597220432953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597220443307	Marionette	INFO	Stopped listening on port 49884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597220475161	geckodriver	INFO	Listening on 127.0.0.1:49949
+1597220478171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofiledMDEMp"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597220479672	Marionette	INFO	Listening on port 49958
+1597220479793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597220548696	Marionette	INFO	Stopped listening on port 49958
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597220575052	geckodriver	INFO	Listening on 127.0.0.1:50123
+1597220578063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofilejtlcxF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597220579570	Marionette	INFO	Listening on port 50132
+1597220579674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597220611171	Marionette	INFO	Stopped listening on port 50132
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597220974414	geckodriver	INFO	Listening on 127.0.0.1:50605
+1597220977456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofiletxkeJc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597220978911	Marionette	INFO	Listening on port 50615
+1597220979070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597220982183	Marionette	INFO	Stopped listening on port 50615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597221026187	geckodriver	INFO	Listening on 127.0.0.1:50681
+1597221029188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofilecNiBzH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597221030660	Marionette	INFO	Listening on port 50690
+1597221030802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597221062608	Marionette	INFO	Stopped listening on port 50690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597221125025	geckodriver	INFO	Listening on 127.0.0.1:50884
+1597221128025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileBSTLfO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597221129501	Marionette	INFO	Listening on port 50893
+1597221129658	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 31488, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 31488, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 31488, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1597221151469	Marionette	INFO	Stopped listening on port 50893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597221200082	geckodriver	INFO	Listening on 127.0.0.1:51036
+1597221203082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileHvbOnr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597221204578	Marionette	INFO	Listening on port 51045
+1597221204695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597221236367	Marionette	INFO	Stopped listening on port 51045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597222080182	geckodriver	INFO	Listening on 127.0.0.1:51782
+1597222083203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileQ4uGw9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597222084635	Marionette	INFO	Listening on port 51792
+1597222084826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597222144553	Marionette	INFO	Stopped listening on port 51792
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597222211570	geckodriver	INFO	Listening on 127.0.0.1:51962
+1597222214592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileBS3pJG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597222216100	Marionette	INFO	Listening on port 51971
+1597222216212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=1807d7b2-54c7-436a-b674-de1203285da1&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=8add4546-7b0a-4392-ab0a-75bec4c31996&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=3bd7f913-b514-4661-90af-307f2f851223&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=881178b5-1222-4d80-84fa-207011bf46b3&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=08f9513a-de7d-4504-927e-049fa4258969&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=86cd4b5d-3404-4064-bdca-eca21c71a0e1&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=c8f164c2-6c9b-4bd2-ab4d-3e1b51bd254c&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=80b1f0f9-e827-4af4-8530-0bd94edda1c2&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=289df733-cc79-4dcc-be83-9f92d3d9e6f6&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=a4d96df7-0bd2-4494-8f53-a6ea6ed9efa8&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597222423736	Marionette	INFO	Stopped listening on port 51971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597295160925	geckodriver	INFO	Listening on 127.0.0.1:55331
+1597295163947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofilezfd22E"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597295166152	Marionette	INFO	Listening on port 55340
+1597295166168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=96fa8347-3188-4e0c-b294-fd1b9d181e95&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=01fbd9ad-0f7b-49aa-8bfc-552beee5578c&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=cc434215-4175-410e-b43b-68272bc7bdf9&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=63ef92e9-44b4-48ff-aa46-14815d9a7c21&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=39d70088-2369-46e3-81f9-73fb93f2972f&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=c9c05644-06ac-46cf-bb9c-705ed4755862&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=7ef21e37-e63f-492e-89f1-f800aed34ec5&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=913115b7-47dc-431a-b5a4-e5e6aca70b0e&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=b7b1c80a-4b18-4b16-88ef-403f7d7a047b&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597295378254	Marionette	INFO	Stopped listening on port 55340
+[Child 34384, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597342112262	geckodriver	INFO	Listening on 127.0.0.1:50802
+1597342115271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofilexJTzEE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597342117274	Marionette	INFO	Listening on port 50811
+1597342117407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=73fc38a4-2789-4a91-af23-3f40f7853444&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=4c65b2df-da03-47ec-ac7d-5bc29346541d&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=49be66d1-7dc4-421f-909d-98c959f6d3b1&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=09c8550c-6700-4209-9202-35ac4ef275a2&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=49902e19-d19d-4ec9-b7cd-d98e7ba2bc82&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=0a146c7a-bb8a-4541-bac7-5d3c9208abde&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=e35033c3-5156-40be-9c22-c7ca14620209&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=0ea45a81-e852-4ffc-baed-3a23dc8b2032&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=bd97ce0c-d005-45e6-9c43-18ea7958b69b&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=f4c15ba1-1e53-40e6-8885-225ff2bd10a5&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597342329338	Marionette	INFO	Stopped listening on port 50811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597387018596	geckodriver	INFO	Listening on 127.0.0.1:55824
+1597387021541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileJ5LuLc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597387023606	Marionette	INFO	Listening on port 55833
+1597387023671	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=ebe4322b-0173-4dc4-88e3-fcbf86718ef3&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=f3965d52-5584-4e82-bed2-64e2d8a1e2ab&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=51a9fa90-b8bb-4761-b3cb-c1f6f7d6cc17&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=acbbd7fe-98c7-4368-906d-a9099ae16bcd&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=ca234837-78ce-4377-a8a0-6b3c3d7f63b9&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=71cedc99-c2aa-468e-ab6b-fe37748e14e1&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=4c3fb05c-12cb-4283-ae34-8408be9ddcdc&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=5ccaa47f-3a2f-4d9a-a7fb-b8bd4598befe&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=9b68a93d-d637-4c46-83b9-be4f59562b21&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=b9332e54-6ec3-4a68-b179-5b4d6049011d&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597387230401	Marionette	INFO	Stopped listening on port 55833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597387750491	geckodriver	INFO	Listening on 127.0.0.1:56946
+1597387753520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileKzhAKM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597387754943	Marionette	INFO	Listening on port 56957
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597387755604	Marionette	INFO	Stopped listening on port 56957
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597387782237	geckodriver	INFO	Listening on 127.0.0.1:57022
+1597387792833	geckodriver	INFO	Listening on 127.0.0.1:57034
+1597387795853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofileS3QMVl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597387797216	Marionette	INFO	Listening on port 57043
+1597387797465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=7e484364-a45d-44c6-83eb-387ced9fee9a&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=38b589ce-8d6a-4a62-bfbe-a895208e6eb9&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=bda533f4-4ac1-4187-9794-b688cb46524a&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=ddc962ad-27c3-4b0b-8e42-3e88f2afc04c&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=e5192831-c5c3-4be4-9c2e-f51bb1298d94&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=86ad0447-d8de-4b3a-8801-a3f5ea7c7155&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=8155fc96-5482-4afd-9258-9eebb8048660&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=8819182c-a6a5-4019-bd84-da0bd0f48144&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=a0c3d1c4-493b-4895-a0bc-0f134e9a2c89&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=0e384167-37e4-4b8e-be53-3ab4ddbf4d6f&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597388003674	Marionette	INFO	Stopped listening on port 57043
+[Child 28132, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597432901368	geckodriver	INFO	Listening on 127.0.0.1:60243
+1597432904377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofiler5fGlU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597432905816	Marionette	INFO	Listening on port 60252
+1597432905995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=b54272b5-df91-425e-8693-e06db4583bb3&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=eeb3ccfd-56d8-4690-bb4b-def9b4996038&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=3413d43b-6516-46a6-9874-9572c4740fcf&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=e3255035-b736-49ca-9f19-842d8b0ada83&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=5d01b569-cfc9-4b6f-95f0-dd443ab8909d&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=fb97cf0b-4a9c-4968-a208-fff3a769af58&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=1d682897-8140-415e-9491-a1246bb9fc0a&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=63c1d225-512e-45dc-8b3e-62dc2b8b196a&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=978b7d16-5b5c-4b32-a015-c933d89b7e0b&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=9bd20554-69e7-4972-aaac-48b7bfb06e2a&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597433112209	Marionette	INFO	Stopped listening on port 60252
+[Child 18608, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597523322172	geckodriver	INFO	Listening on 127.0.0.1:60852
+1597523325175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rafiq\\AppData\\Local\\Temp\\rust_mozprofile3t94IO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597523328044	Marionette	INFO	Listening on port 60862
+1597523328399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=422a940d-6d6c-4679-9c25-e04ad1a71af9&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=de9fdeb2-e3d6-4931-8e25-39c89c51c606&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=a4b02c85-f482-4a4c-961f-1b070e88645e&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=e85da323-d44f-4bf4-8cc0-acafb44fa361&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=da00e35a-bfae-46f0-ad90-35479a23d4e5&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=ba4f6f9d-8bcb-480c-9e18-90b839161142&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=8f442f76-4dff-4c98-951f-44e5f6130a3d&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=32e86793-f7d6-439e-83f9-4d65421fc6f2&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=24283b50-8f22-4f1b-8818-0d92eec3d85d&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=f18f1e99-c8af-44cf-9d53-99079b7b754c&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1597523538810	Marionette	INFO	Stopped listening on port 60862
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
